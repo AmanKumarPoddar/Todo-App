@@ -1,0 +1,16 @@
+input {
+  width: 100%;
+}
+
+.container {
+  text-align: left;
+}
+.kg-row {
+  margin: 10px 5px;
+}
+.kg-button {
+  min-width: 80px;
+}
+body {
+  background-color: rgb(175, 221, 206);
+}
